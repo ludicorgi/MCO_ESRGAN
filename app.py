@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import tensorflow as tf
-import cv2, sr
+import sr
 from io import BytesIO
 from  PIL import Image, ImageEnhance
 
